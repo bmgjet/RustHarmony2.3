@@ -1,7 +1,7 @@
 # RustHarmony2.3
 <p><span style="font-size:24px"><strong>Harmony 2.3 for rust server</strong></span></p>
 
-<p>Download Installer <a href="https://github.com/bmgjet/RustHarmony2.3/raw/main/Harmony2_3-Installer-Windows-005.zip">Windows</a> | <a href="https://github.com/bmgjet/RustHarmony2.3/raw/main/Harmony2_3-Installer-Linux-005.zip">Linux</a><br />
+<p>Download Installer <a href="https://github.com/bmgjet/RustHarmony2.3/raw/main/Harmony2_3-Installer-Windows-006.zip">Windows</a> | <a href="https://github.com/bmgjet/RustHarmony2.3/raw/main/Harmony2_3-Installer-Linux-006.zip">Linux</a><br />
 Extract files into root of rust server.<br />
 Start server and it should replace the Harmony V1.2 files with Harmony V2.3<br />
 It will also attempt to patch any Harmony V1.2 dll plugins and oxide cs plugins to Harmony V2.3</p>
